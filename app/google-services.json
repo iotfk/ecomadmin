@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "676323250993",
+    "project_id": "myshop-37a59",
+    "storage_bucket": "myshop-37a59.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676323250993:android:a7f644bdf984fc44359610",
+        "android_client_info": {
+          "package_name": "com.tfkiot.myshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaq3i3Safpxj24nL0-cUYu7O2jbD7aXIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676323250993:android:60e4e35c9e37f967359610",
+        "android_client_info": {
+          "package_name": "com.tfkiot.myshopadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaq3i3Safpxj24nL0-cUYu7O2jbD7aXIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
